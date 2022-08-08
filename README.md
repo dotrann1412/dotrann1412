@@ -6,7 +6,7 @@
 
 <ul>
     <li>📚 Ho Chi Minh University of Science</li>
-    <li>🌱 Learning to be awesome</li>
+<!--    <li>🌱 Learning to be awesome</li> -->
     <li>🚀 College student, working as Software Engineer, provides frameworks and tools for game development</li>
 </ul>
 
