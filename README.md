@@ -5,7 +5,7 @@
 </div>
 
 <ul>
-    <li>📚 Major in Computer Science at Ho Chi Minh University of Science (VNU/HCMUS)</li>
+    <li>📚 Major in Computer Science at HCMUS, VNU</li>
 <!--    <li>🌱 Learning to be awesome</li> -->
     <li>🚀 College student, working as Software Engineer, provides frameworks and tools for game development</li>
 </ul>
