@@ -8,7 +8,6 @@
     <li>📚 Major in Computer Science at HCMUS, VNU.</li>
 <!--    <li>🌱 Learning to be awesome</li> -->
     <li>🚀 College student. </li>
-    <li>🌱 Working as Software Engineer, provides frameworks and tools for game development.</li>
 </ul>
 
 <h2> Contact me via: </h2>
