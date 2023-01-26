@@ -5,9 +5,9 @@
 </div>
 
 <ul>
+    <li>🚀 College student. </li>
     <li>📚 Major in Computer Science at HCMUS, VNU.</li>
 <!--    <li>🌱 Learning to be awesome</li> -->
-    <li>🚀 College student. </li>
 </ul>
 
 <h2> Contact me via: </h2>
