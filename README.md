@@ -21,9 +21,9 @@
 
 <h2 >Github Statistics:</h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dotrann1412&hide=issues,contribs&count_private=true&show_icons=true&theme=material-palenight" alt="dotrann1412" width="700px"/> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=dotrann1412&theme=material-palenight" alt="GitHub Streak" width="700px"/> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotrann1412&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" width="700px"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dotrann1412&hide=issues,contribs&count_private=true&show_icons=true&theme=material-palenight" alt="dotrann1412" width="600px"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=dotrann1412&theme=material-palenight" alt="GitHub Streak" width="600px"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotrann1412&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" width="600px"/> </p>
 
 <!--
 **dotrann1412/dotrann1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
