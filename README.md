@@ -6,7 +6,7 @@
 
 <ul>
     <li>🚀 College student. </li>
-    <li>📚 Major in Computer Science at HCMUS, VNU.</li>
+    <li>📚 Major in Computer Science at VNU, HCMUS.</li>
 <!--    <li>🌱 Learning to be awesome</li> -->
 </ul>
 
