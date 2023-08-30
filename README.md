@@ -10,7 +10,7 @@
 <!--    <li>🌱 Learning to be awesome</li> -->
 </ul>
 
-<h2> Contact me via: </h2>
+<h2> Links: </h2>
 
 <p align="center">
     <a href="https://www.facebook.com/ndotran1412" target="blank"><img align="center" src="./assets/icons/facebook.svg" alt="dotrann1412" height="30" width="40" /></a>
