@@ -5,9 +5,8 @@
 </div>
 
 <ul>
-    <li>🚀 College student. </li>
-    <li>📚 Major in Computer Science at VNU, HCMUS.</li>
-<!--    <li>🌱 Learning to be awesome</li> -->
+    <li>🚀 College student, major in Computer Science at VNU, HCMUS.</li>
+    <li>🌱 AI Engineer at somewhere on earth.</li>
 </ul>
 
 <h2> Links: </h2>
