@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&&&&color=0:3399ff,100:ff66cc&height=200&fontColor=ffffff&animation=scaleIn&fontAlignY=30&section=header&text=Hi!%20🥳&fontSize=40)
 
 <div  style="display: flex; align-items: center;">
-    <h2 style="display: inline-block"> @ndtran - Do Tran Ngoc</h2> 
+    <h2 style="display: inline-block"> @ndtran - Ngoc-Do Tran</h2> 
 </div>
 
 <ul>
