@@ -6,7 +6,7 @@
 
 <ul>
     <li>🚀 College student, major in Computer Science at VNU, HCMUS.</li>
-    <li>🌱 AI Engineer at somewhere on earth.</li>
+    <li>🌱 AI Engineer somewhere on earth.</li>
 </ul>
 
 <h2> Links: </h2>
